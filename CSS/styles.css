@@ -1,0 +1,155 @@
+body{
+    font-family: 'Merriweather', serif;
+    text-align: justify;  
+    margin: 0%;
+}
+
+hr{
+    background-color: none;
+    border-style: none;
+    border-top: dotted;
+    border-color: grey;
+    border-width: 5px;
+    height: 0px;
+    width: 15%;
+    margin: 50px auto;
+}
+
+p{
+    line-height: 2rem;
+}    
+
+h1{
+    color: #3A98B9;
+    margin: auto;
+    font-family: 'Cinzel', serif;
+    font-size: 3.125rem;
+    margin-top: 100px;
+    margin-bottom: 0px;
+}
+
+h2{
+    color: #05727e;
+    font-family: 'Lora', serif;
+    font-size: 2rem;
+    margin-top: 10px;
+    margin-bottom: 10px;
+}
+
+h3{
+    color: #1b808c;
+    font-family: 'Alegreya', serif;
+    text-align: center;
+    font-size: 1.5em;
+    margin-top: 30px;
+    margin-bottom: 20px;
+    
+}
+
+.top-container{
+    background-color: #C9EEFF;
+    position: relative;
+    padding-top: 10%;
+    margin: 0px;
+}
+
+.middle-container{
+    margin: auto;
+    width: 50%;
+}
+
+.Stars{
+    background-color: #C9EEFF;
+
+}
+
+.skills{
+    margin: auto;
+}
+
+.skill-row:hover{
+    background-color: rgb(234, 91, 91);
+    margin: auto;
+}
+
+.edu{
+    margin: auto;
+    width: 50%;
+}
+.exp{
+    float: left;
+    padding-right: 20px;
+    
+    padding-bottom: 10px;
+}
+
+.work{
+    width: 50% !important;
+    margin: auto !important;
+}
+
+.contact-me{
+
+}
+
+.con:hover {
+    background-color: rgb(234, 91, 91);
+    width: 100%;
+    height: auto;
+    margin: auto;
+}
+
+
+.Projects{
+    width: 50% !important;
+    margin: auto !important;
+    
+}
+
+.proj{
+    float: right;
+    padding-left: 20px;
+    padding-bottom: 20px;
+}
+.port{
+    background-color: #C9EEFF;
+    padding-top: 1px;
+    padding-bottom: 20px;
+    padding-left: 0px;
+    padding-right: 0px;
+}
+
+.linkup:hover{
+    background-color: rgb(166, 210, 216);
+}
+
+.bottom{
+    padding-top: 0px;
+    padding-bottom: 0px;
+    margin-top: 10px;
+    margin-bottom: 0px;
+}
+
+.love{
+    background-color: #C9EEFF;
+    margin: auto;
+}
+
+.footer-link:hover{
+    background-color: rgb(0, 162, 255);
+    padding: 50px;
+}
+
+.bcloud{
+    position: absolute;
+    left: 300px;
+    bottom: 290px;
+}
+
+.tcloud{
+    position: absolute;
+    right: 300px;
+    top: 90px;
+
+}
+
